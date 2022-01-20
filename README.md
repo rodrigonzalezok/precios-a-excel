@@ -1,4 +1,4 @@
-# precios-a-excel
+# Precios a Excel
 Script que extrae todos los precios de los instrumentos financieros del mercado argentino y los envía a un excel en tiempo real
 
 En este código simplemente deben colocar las rutas de: el excel a donde van a mandar los datos y en dónde tienen el driver para Selenium (recomiendo tenerlo en la misma carpeta par que la ruta sea más sencilla).
